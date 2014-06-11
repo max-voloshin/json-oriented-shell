@@ -14,7 +14,7 @@ Preparing input
 System utils
 -------------
 
-- [``jls``](https://github.com/max-voloshin/jls]) – analog of ``ls``
+- [``jls``](https://github.com/max-voloshin/jls) – analog of ``ls``
 - ``jps`` – analog of ``ps`` **(not yet implemented)**
 - ``jlosf`` – analog of ``lsof`` **(not yet implemented)**
 - ``jfind`` – analog of ``find`` **(not yet implemented)**
