@@ -1,31 +1,21 @@
-json-pipes
-==========
+Object oriented shell
+=====================
 
-Collection of tools for concept of JSON Pipes 
+Collection of tools for working with object oriented shell.
 
-Input
------
+This list assumes that object is described via JSON.
 
-Generic:
+Preparing input
+---------------
 
-- Build JSON from ``stdin`` – ``jize``?
-- Rebuild data from ``stdin``: one line – one JSON primitive – ``jine``?
+- ``jize`` – build JSON from ``stdin`` **(not yet implemented)**
+- ``jline``- format data from ``stdin``: one line – one JSON **(not yet implemented)**
 
-App-specific:
+System utils
+-------------
 
-- Analog of ``ls`` – [``jls`` (Go)](https://github.com/max-voloshin/jls])
-- Analog of ``ps`` – ``jps``?
-- Analog of ``lsof`` - ``jlosf``?
-- Analog of ``find`` – ``jfind``?
-- Info from ``iptables`` - ``jipt``?
-
-
-Acknowledgements
-================
-
-Original idea comes from [json4shell](https://github.com/amarao/json4shell) project.
-
-License
-=======
-
-MIT
+- [``jls``](https://github.com/max-voloshin/jls]) – analog of ``ls``
+- ``jps`` – analog of ``ps`` **(not yet implemented)**
+- ``jlosf`` – analog of ``lsof`` **(not yet implemented)**
+- ``jfind`` – analog of ``find`` **(not yet implemented)**
+- ``jipt`` – info from ``iptables`` **(not yet implemented)**
