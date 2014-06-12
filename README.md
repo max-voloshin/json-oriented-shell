@@ -30,8 +30,8 @@ Manipulation
 - [``json4shell:array-uniq``](https://github.com/amarao/json4shell) – deduplicated array (every element repeat once)
 - [``json4shell:array-sort``](https://github.com/amarao/json4shell) – sort array elements
 - [``json4shell:array-shuffle``](https://github.com/amarao/json4shell) – randomize array
-- [``json4shell:object-get key``](https://github.com/amarao/json4shell) – return value for key in object
-- [``json4shell:object-values``](https://github.com/amarao/json4shell) – return values of object as array
+- [``json4shell:object-get``](https://github.com/amarao/json4shell) – value for key in object
+- [``json4shell:object-values``](https://github.com/amarao/json4shell) – values of object as array
 
 Preparing output
 ----------------
